@@ -1,4 +1,4 @@
-class Rover {
+class Rover { //fun
       constructor(position, mode = 'NORMAL', generatorWatts = 110){
          this.position = position;
          this.mode = mode;
